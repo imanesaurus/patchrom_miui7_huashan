@@ -1,0 +1,16 @@
+version: 2.0.0-RC4
+apkFileName: mipop.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 8
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '15'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '2'
+  versionName: '2.0'
+compressionType: false

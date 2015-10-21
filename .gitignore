@@ -1,0 +1,6 @@
+out/
+backup/
+temp/
+stockrom.zip
+releasetools.pyc
+signapk.sh
